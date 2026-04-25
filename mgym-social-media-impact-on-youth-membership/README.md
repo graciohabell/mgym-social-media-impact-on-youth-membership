@@ -16,7 +16,7 @@ KEY FINDINGS
 
 ##Dashboard Preview
 
-![Dashboard](images/Screenshot 2026-04-25 155743.png)
+![Dashboard](images/dashboard.png)
 
 BUSINESS INSIGHT
 
