@@ -15,7 +15,7 @@ KEY FINDINGS
 -The shift continues through February and March 2026, indicating early signs of demographic change
 
 ##Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Screenshot 2026-04-25 155743.png)
 
 BUSINESS INSIGHT
 
