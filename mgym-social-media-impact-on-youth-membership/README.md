@@ -14,7 +14,7 @@ KEY FINDINGS
 -Starting January 2026, there is a gradual increase in younger members
 -The shift continues through February and March 2026, indicating early signs of demographic change
 
-##Dashboard Preview
+Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
 
